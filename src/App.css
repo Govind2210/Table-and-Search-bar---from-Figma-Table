@@ -36,3 +36,53 @@
     transform: rotate(360deg);
   }
 }
+
+.headOfNmae{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+letter-spacing: 0.06em;
+text-transform: uppercase;
+}
+
+
+.real-data{
+  width: 166px;
+height: 16px;
+
+/* Title heading */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+}
+
+.figmaTable{
+  display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 1324px;
+height: 1182px;
+left: 285px;
+top: 237px;
+
+}
+.searching{
+box-sizing: border-box;
+position: absolute;
+width: 488.86px;
+height: 68px;
+left: 399.06px;
+top: 160.5px;
+border: 1px solid #6F6F6F;
+border-radius: 40px;
+}
